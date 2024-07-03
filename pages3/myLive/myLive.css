@@ -1,0 +1,108 @@
+page {
+	background-color: rgba(245, 245, 247, 1);
+}
+
+.livetxtno {
+	height: 44rpx;
+	font-size: 32rpx;
+	font-family: PingFang SC-Medium, PingFang SC;
+	font-weight: bold;
+	color: #333333;
+	line-height: 44rpx;
+}
+
+.selline {
+	width: 92rpx;
+	height: 20rpx;
+	background: linear-gradient(90deg, #2E7EFF 0%, rgba(46, 126, 255, 0) 100%);
+	border-radius: 10rpx 10rpx 10rpx 10rpx;
+	opacity: 0.4;
+	position: relative;
+	top: -15rpx;
+}
+
+.noseltxt {
+	color: #858B9C;
+}
+
+.noselview {
+	background: #ffffff;
+	opacity: 0;
+}
+
+.topsou {
+	width: 702rpx;
+	height: 64rpx;
+	background: rgba(245, 245, 247, 1);
+	border-radius: 100rpx;
+	opacity: 1;
+	margin: 0rpx 24rpx;
+}
+
+.zhiboview {
+	width: 342rpx;
+	background: #FFFFFF;
+	border-radius: 25rpx;
+	opacity: 1;
+	margin-bottom: 25rpx;
+}
+
+.imagsee {
+	width: 342rpx;
+	height: 200rpx;
+	border-radius: 16rpx 16rpx 0rpx 0rpx;
+	opacity: 1;
+	background-color: #007AFF;
+	z-index: 1;
+}
+
+.ziboname {
+	width: 314rpx;
+	font-size: 26rpx;
+	font-family: PingFang SC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #333333;
+	line-height: 36rpx;
+	margin: 14rpx 14rpx;
+	text-align: left;
+}
+
+.zhanuee {
+	position: absolute;
+	top: 0rpx;
+	left: 0rpx;
+	z-index: 2;
+	background-color: rgba(0,0,0,0.5);
+	opacity: 1;
+	border-radius: 16rpx 16rpx 0rpx 0rpx;
+}
+.righttopview{
+	height: 40rpx;
+	background: rgba(0,0,0,0.7);
+	border-radius: 18rpx ;
+	padding:0rpx 15rpx;
+	position: absolute;
+	top: 15rpx;
+	right: 15rpx;
+}
+.leftttopview{
+	height: 40rpx;
+	background: rgba(255,0,0,0.5);
+	border-radius: 18rpx ;
+	padding:0rpx 15rpx;
+	position: absolute;
+	top: 15rpx;
+	left: 15rpx;
+}
+.zhiboyugao{
+	width:342rpx;
+	height: 20rpx;
+	font-size: 20rpx;
+	font-family: PingFang SC-Regular, PingFang SC;
+	color: #FFFFFF;
+	line-height: 20rpx;
+	position: absolute;
+	bottom: 20rpx;
+	text-align: center;
+	opacity: 0.8;
+}

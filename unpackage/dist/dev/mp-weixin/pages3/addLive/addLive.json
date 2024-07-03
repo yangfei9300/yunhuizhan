@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "添加直播",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "h-time-picker": "/components/h-timePicker/h-timePicker",
+    "time-slot": "/components/wanghexu-timeslot/wanghexu-timeslot"
+  }
+}

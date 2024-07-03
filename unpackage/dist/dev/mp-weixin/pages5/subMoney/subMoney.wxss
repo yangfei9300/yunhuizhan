@@ -1,0 +1,5 @@
+.moneytxt{
+	color: red;
+	font-weight: bold;
+}
+

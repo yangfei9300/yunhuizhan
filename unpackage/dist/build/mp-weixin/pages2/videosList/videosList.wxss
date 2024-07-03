@@ -1,0 +1,1 @@
+.videoimgvie{width:350rpx;height:350rpx;background-color:#007aff;border-radius:15rpx;margin-bottom:20rpx}.viedoimg{width:702rpx;height:340rpx;background:#000;border-radius:15rpx;top:0rpx;left:0rpx}.shijnatxt{position:absolute;left:20rpx;bottom:20rpx;color:#fff}.videozhezhao{top:0rpx;z-index:1000;background-color:rgba(0,0,0,.5);border-radius:15rpx}

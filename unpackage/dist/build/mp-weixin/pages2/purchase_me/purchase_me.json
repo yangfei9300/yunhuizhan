@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的供需发布",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "no-list": "/components/noList/noList"
+  }
+}

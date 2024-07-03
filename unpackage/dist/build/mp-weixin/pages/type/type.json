@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "展商",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "no-list": "/components/noList/noList"
+  }
+}

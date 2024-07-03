@@ -1,0 +1,13 @@
+.topimg{
+	width: 750rpx;
+	height: 300rpx;
+	background-color: #007AFF;
+}
+.yonghunick{
+	font-size: 30rpx;
+	font-weight: bold;
+	color: white;
+	height: 35rpx;
+	line-height: 35rpx;
+	background-color: #009100;
+}

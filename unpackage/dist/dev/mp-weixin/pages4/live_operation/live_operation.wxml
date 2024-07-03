@@ -1,0 +1,3 @@
+<view><view class="colonn fs-30 lh-55 p-all-20"><view>1.，申请直播间，填写的微信号必须是 微信我的界面  显示的微信号，微信号必须是在直播小程序实名认证过的，然后等待后台工作人员审核</view><view>2.实名认证小程序二维码</view><view><image class="w-300 h-300" src="{{erweimaimg}}" data-event-opts="{{[['tap',[['showimg',['$event']]]]]}}" catchtap="__e"></image></view><view>将二维码下载下来扫码进行实名认证</view><view>3.直播信息管理员审核完成</view><view>4.选择的直播形式如果是手机直播的话，搜索微信小程序“小程序直播”，点击进去即可进行直播，如果选择的是硬件直播，可在我的直播界面，将需要直播的推流地址复制出来，然后将推流地址填入第三方推流硬件或软件中，
+		同时长按此链接<text style="color:blue;" selectable="{{true}}" user-select="{{true}}">https://live.weixin.qq.com/</text>,在电脑端打开此链接，使用主播微信扫码登录，点击左边菜单“直播间”，右边展示的是需要直播的列表信息，
+		点击需要直播的控制台按钮，进入直播详情页面，点击开始直播，即直播正式开始，如果直播结束，此页面有关闭直播按钮，点击关闭即可。</view></view></view>

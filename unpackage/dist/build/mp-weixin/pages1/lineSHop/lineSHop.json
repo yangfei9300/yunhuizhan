@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "线上商城",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "no-list": "/components/noList/noList"
+  }
+}

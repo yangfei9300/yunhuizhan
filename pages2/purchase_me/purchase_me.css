@@ -1,0 +1,22 @@
+page{
+	background-color: #F5F5F7;
+}
+.biaoiqianss{
+	padding:5rpx 15rpx;
+	font-size: 25rpx;
+	background-color: rgba(46, 126, 255,0.5);
+	border-radius: 115rpx;
+	color: white;
+	margin-top: 15rpx;
+	margin-right: 15rpx;
+}
+.xiangqingbtm{
+	width: 100rpx;
+	height: 50rpx;
+	background-color: #007AFF;
+	text-align: center;
+	line-height: 50rpx;
+	border-radius: 10rpx;
+	color: white;
+	font-size: 25rpx;
+}

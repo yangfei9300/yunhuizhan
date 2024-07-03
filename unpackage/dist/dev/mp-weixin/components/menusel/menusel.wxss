@@ -1,0 +1,16 @@
+
+.linesblue{
+	height: 10rpx;
+	width: 100rpx;
+	background-color: #007AFF;
+	border-radius: 100rpx;
+	margin-top: 20rpx;
+}
+.seltxt{
+	/* min-width: 150rpx; */
+	white-space:nowrap;
+	font-size: 30rpx;
+	font-weight: bold;
+	color: #007AFF;
+}
+

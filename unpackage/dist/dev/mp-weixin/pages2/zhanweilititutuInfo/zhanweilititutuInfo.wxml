@@ -1,0 +1,1 @@
+<view><image class="w-750 " style="background-color:#f5f5f5;" src="{{imgInfo.image+'?x-oss-process=image/auto-orient,1/resize,m_lfit,w_702/quality,q_46'}}" mode="widthFix" data-event-opts="{{[['tap',[['showimg',['$0'],['imgInfo.image']]]]]}}" bindtap="__e"></image><view class="p-all-20">{{''+imgInfo.info+''}}</view></view>

@@ -1,0 +1,4 @@
+.imagdel{
+	top: -25rpx;right: -25rpx;background-color: #ffffff;border-radius: 50%;
+}
+

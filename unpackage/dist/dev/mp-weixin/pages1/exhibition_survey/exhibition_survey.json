@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "展会概况",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}

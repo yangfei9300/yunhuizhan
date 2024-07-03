@@ -1,0 +1,621 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"backgroundColor": "#F5F5F7",
+				"navigationBarBackgroundColor": "#F5F5F7",
+				"navigationBarTitleText": "首页"
+				}
+			}
+	    ,{
+            "path" : "pages/type/type",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "展商",
+                "enablePullDownRefresh": false
+            }
+        }
+        ,{
+            "path" : "pages/live/live",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "直播",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/dongtai/dongtai",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "动态",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wode/wode",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages3/imgLive/imgLive",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "图片直播",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/kefuList/kefuList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "客服",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/my_erweima/my_erweima",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "进场二维码",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/saomahexiao/saomahexiao",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "扫码核销",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/sousuo/sousuo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "搜索",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/addLive/addLive",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "添加直播",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/myLive/myLive",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的直播",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/tonggaoInfoa/tonggaoInfoa",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "通告详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/yudengji/yudengji",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "报名",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/yudengjiX/yudengjiX",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预登记",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/xieyi/xieyi",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "协议",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/wbview/wbview",
+            "style" :                                                                                    
+            {
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/articleList/articleList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新闻",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages3/article_info/article_info",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新闻详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages4/live_operation/live_operation",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "直播操作手册",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages4/liveing/liveing",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "直播",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages4/liveing1/liveing1",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "直播",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+        }
+		
+		
+        ,{
+            "path" : "pages4/updateUserInfo/updateUserInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "修改个人信息",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages4/myGroupUserList/myGroupUserList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的团员",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages4/toResult/toResult",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "报名结果",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages4/ydjWebview/ydjWebview",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages5/yaoyuejilu/yaoyuejilu",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "邀约记录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages5/luntanbaoming/luntanbaoming",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages5/ydjfl/ydjfl",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预登记福利",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages5/subMoney/subMoney",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "提现",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	
+	"subPackages": [
+		{
+				"root": "pages2",  //文件夹名称，  pages文件夹同级新建一个就行
+				"pages": [
+					{
+					    "path" : "purchase_me/purchase_me",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "我的供需发布",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "mydongtai/mydongtai",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "我的发布",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "paiming/paiming",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "排行榜",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "zhanweilititutuInfo/zhanweilititutuInfo",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "展位立体图详情",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "lianwiomen/lianwiomen",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "",
+					        "enablePullDownRefresh": false
+					    }
+					}
+					,{
+					    "path" : "image_live/image_live",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "图片直播",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "videosList/videosList",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "视频列表",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "concurrent_activities/concurrent_activities",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "同期活动",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,
+					
+					
+					
+					{
+					    "path" : "activityList/activityList",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "活动列表",
+					        "enablePullDownRefresh": false
+					    }
+					}
+					,{
+					    "path" : "activityInfo/activityInfo",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "活动详情",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "purchase_fabu/purchase_fabu",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "供需发布",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+					,{
+					    "path" : "activity_sign_up/activity_sign_up",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "活动报名",
+					        "enablePullDownRefresh": false
+					    }
+					}
+					,{
+					    "path" : "caozuozhinne/caozuozhinne",
+					    "style" :                                                                                    
+					    {
+					        "navigationBarTitleText": "操作指南",
+					        "enablePullDownRefresh": false
+					    }
+					    
+					}
+				 ]
+			}
+			,
+		{
+			"root": "pages1",  //文件夹名称，  pages文件夹同级新建一个就行
+			"pages": [
+				{
+				    "path" : "lineSHop/lineSHop",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "线上商城",
+				        "enablePullDownRefresh": false
+				    }
+				}
+				,
+				
+				{
+				    "path" : "shopInfo/shopInfo",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "企业详情",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,
+				{
+				    "path" : "concurrent_activities_wujin/concurrent_activities_wujin",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "同期活动",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "goodInfo/goodInfo",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商品详情",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "one_click_inquiry/one_click_inquiry",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "一键询价",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "signUpInfo/signUpInfo",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "报名",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "enterpriseAdd/enterpriseAdd",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "企业入驻",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "collectionAll/collectionAll",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "全部收藏",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "demand_procurement/demand_procurement",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "需求采购",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "demand_procurement_info/demand_procurement_info",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "供需详情",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "exhibition_survey/exhibition_survey",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "展会概况",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "exhibitor_center/exhibitor_center",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "展商中心",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "audience/audience",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "观众",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "concurrent_activities/concurrent_activities",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "同期活动",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,
+				{
+				    "path" : "exhibition_services/exhibition_services",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "展会服务",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "hotelInfo/hotelInfo",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "酒店详情",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "exhibition_information/exhibition_information",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "展会资讯",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "exhibition_information_info/exhibition_information_info",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "资讯详情",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "concurrent_activities_hb/concurrent_activities_hb",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "同期活动",
+				        "enablePullDownRefresh": false
+				    }
+				} 
+			 ]
+		}],
+	// "plugins": {
+	//     "live-player-plugin": {
+	//         "version": "1.3.5", // 注意填写该直播组件最新版本号，微信开发者工具调试时可获取最新版本号（复制时请去掉注释）
+	//         "provider": "wx2b03c6e691cd7370" // 必须填该直播组件appid，该示例值即为直播组件appid（复制时请去掉注释）
+	//     }
+	// },
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "云展会",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#F5F5F7"
+	},
+	"tabBar": {
+		"color": "#909399",  
+		"selectedColor": "#2E7EFC",
+		"backgroundColor": "#f5f5f5",  
+		"borderStyle": "black",
+		"list": 
+		[
+			{   
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath":"static/tabbar/shouye1.png",
+				"selectedIconPath":"static/home/shouye2.png"
+			},    
+			{
+				"pagePath": "pages/type/type",
+				"text": "展商",
+				"iconPath":"static/tabbar/fenlei1.png",
+				"selectedIconPath":"/static/tabbar/fenlei2.png"
+			},        
+			// {   
+			// 	"pagePath": "pages/live/live",
+			// 	"text": "直播",
+			// 	"iconPath":"static/tabbar/zhibo1.png",
+			// 	"selectedIconPath":"static/tabbar/zhibo2.png"
+			// }  ,      
+			{   
+				"pagePath": "pages/wode/wode",
+				"text": "我的",
+				"iconPath":"static/home/wode1.png",
+				"selectedIconPath":"static/tabbar/wode2.png"
+			}  
+		]  
+	}
+}

@@ -1,0 +1,95 @@
+page{
+	background-color: #F5F5F5;
+}
+.jibenxinxiview{
+	width: 750rpx;
+	background: #FFFFFF;
+	border-radius: 0px 0px 0px 0px;
+	opacity: 1;
+	padding:30rpx 30rpx;
+}
+.huodongname{
+	width: 656rpx;
+	font-size: 32rpx;
+	font-family: PingFang SC-Semibold, PingFang SC;
+	font-weight: 600;
+	color: #333333;
+	line-height: 50rpx;
+}
+.baomingtag{
+	padding: 5rpx 15rpx;
+	background: rgba(46, 126, 255, 0.1);
+	border-radius: 8rpx   ;
+	color: #2E7EFF;
+	font-size: 25rpx;
+	margin-left: 15rpx;
+	margin-top: 15rpx;
+}
+.shijiandiana{
+	height: 36rpx;
+	font-size: 26rpx;
+	font-family: PingFang SC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #858B9C;
+	line-height: 36rpx;
+}
+.shijianino{
+	height: 36rpx;
+	font-size: 26rpx;
+	font-family: PingFang SC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #000000;
+	line-height: 36rpx;
+}
+.huiyijiabin{
+	height: 44rpx;
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #333333;
+	line-height: 44rpx;
+	margin-right: 15rpx;
+}
+.jiabingname{
+	width: 496rpx;
+	height: 44rpx;
+	font-size: 32rpx;
+	font-family: PingFang SC-Medium, PingFang SC;
+	font-weight: bold;
+	color: #000000;
+	line-height: 44rpx;
+}
+.jianjieP{
+	width: 514rpx;
+	font-size: 28rpx;
+	font-family: PingFang SC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #000000;
+}
+.nierongxtt{
+	width: 702rpx;
+	font-size: 28rpx;
+	font-family: PingFang SC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #000000;
+}
+.dibuss{
+	width: 750rpx;
+	height: 120rpx;
+	position: fixed;
+	bottom: 0rpx;
+	left: 0rpx;
+	background: #FFFFFF;
+	border-radius: 0px 0px 0px 0px;
+	opacity: 1;
+}
+.lijiboass{
+	width: 672rpx;
+	height: 80rpx;
+	background: linear-gradient(180deg, #2E7EFC 0%, #6CA5FF 100%);
+	border-radius: 12rpx   ;
+	opacity: 1;
+	text-align: center;
+	line-height: 80rpx;
+	color: white;
+}
+

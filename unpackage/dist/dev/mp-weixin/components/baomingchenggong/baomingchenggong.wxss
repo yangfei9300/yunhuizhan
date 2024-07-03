@@ -1,0 +1,12 @@
+
+.yqhyxfl{
+	width: 550rpx;
+	height: 80rpx;
+	background-color: #2E7EFC;
+	border-radius: 10rpx;
+	margin-top: 20rpx;
+	text-align: center;
+	color: white;
+	line-height: 80rpx;
+}
+

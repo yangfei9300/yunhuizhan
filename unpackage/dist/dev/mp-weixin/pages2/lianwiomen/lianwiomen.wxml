@@ -1,0 +1,1 @@
+<view><view class="p-all-20"><block wx:if="{{info.content}}"><u-parse vue-id="916eec6c-1" content="{{info.content}}" bind:__l="__l"></u-parse></block></view></view>

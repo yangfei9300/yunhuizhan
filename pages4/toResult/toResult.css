@@ -1,0 +1,20 @@
+page{
+	background-color: #f5f5f5;
+}
+.xingmi{
+	width: 600rpx;
+	border:1px solid #f5f5f5;
+	text-align: center;
+	padding:20rpx;
+	border-radius: 10rpx;
+	font-size: 25rpx;
+}
+.yuanss{
+	width: 30rpx;
+	height: 30rpx;
+	background-color: #f5f5f5;
+	border-radius: 50%;
+	position: relative;
+	top: -15rpx;
+	left: -35rpx;
+}

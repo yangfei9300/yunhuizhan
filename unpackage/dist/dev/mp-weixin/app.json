@@ -1,0 +1,116 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/type/type",
+    "pages/live/live",
+    "pages/dongtai/dongtai",
+    "pages/wode/wode",
+    "pages3/imgLive/imgLive",
+    "pages3/kefuList/kefuList",
+    "pages3/my_erweima/my_erweima",
+    "pages3/saomahexiao/saomahexiao",
+    "pages3/sousuo/sousuo",
+    "pages3/addLive/addLive",
+    "pages3/myLive/myLive",
+    "pages3/tonggaoInfoa/tonggaoInfoa",
+    "pages3/yudengji/yudengji",
+    "pages3/yudengjiX/yudengjiX",
+    "pages3/xieyi/xieyi",
+    "pages3/wbview/wbview",
+    "pages3/articleList/articleList",
+    "pages3/article_info/article_info",
+    "pages4/live_operation/live_operation",
+    "pages4/liveing/liveing",
+    "pages4/liveing1/liveing1",
+    "pages4/updateUserInfo/updateUserInfo",
+    "pages4/myGroupUserList/myGroupUserList",
+    "pages4/toResult/toResult",
+    "pages4/ydjWebview/ydjWebview",
+    "pages5/yaoyuejilu/yaoyuejilu",
+    "pages5/luntanbaoming/luntanbaoming",
+    "pages5/ydjfl/ydjfl",
+    "pages5/subMoney/subMoney"
+  ],
+  "subPackages": [
+    {
+      "root": "pages2",
+      "pages": [
+        "purchase_me/purchase_me",
+        "mydongtai/mydongtai",
+        "paiming/paiming",
+        "zhanweilititutuInfo/zhanweilititutuInfo",
+        "lianwiomen/lianwiomen",
+        "image_live/image_live",
+        "videosList/videosList",
+        "concurrent_activities/concurrent_activities",
+        "activityList/activityList",
+        "activityInfo/activityInfo",
+        "purchase_fabu/purchase_fabu",
+        "activity_sign_up/activity_sign_up",
+        "caozuozhinne/caozuozhinne"
+      ]
+    },
+    {
+      "root": "pages1",
+      "pages": [
+        "lineSHop/lineSHop",
+        "shopInfo/shopInfo",
+        "concurrent_activities_wujin/concurrent_activities_wujin",
+        "goodInfo/goodInfo",
+        "one_click_inquiry/one_click_inquiry",
+        "signUpInfo/signUpInfo",
+        "enterpriseAdd/enterpriseAdd",
+        "collectionAll/collectionAll",
+        "demand_procurement/demand_procurement",
+        "demand_procurement_info/demand_procurement_info",
+        "exhibition_survey/exhibition_survey",
+        "exhibitor_center/exhibitor_center",
+        "audience/audience",
+        "concurrent_activities/concurrent_activities",
+        "exhibition_services/exhibition_services",
+        "hotelInfo/hotelInfo",
+        "exhibition_information/exhibition_information",
+        "exhibition_information_info/exhibition_information_info",
+        "concurrent_activities_hb/concurrent_activities_hb"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "云展会",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F5F5F7"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#2E7EFC",
+    "backgroundColor": "#f5f5f5",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/shouye1.png",
+        "selectedIconPath": "static/home/shouye2.png"
+      },
+      {
+        "pagePath": "pages/type/type",
+        "text": "展商",
+        "iconPath": "static/tabbar/fenlei1.png",
+        "selectedIconPath": "/static/tabbar/fenlei2.png"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的",
+        "iconPath": "static/home/wode1.png",
+        "selectedIconPath": "static/tabbar/wode2.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取位置"
+    }
+  },
+  "usingComponents": {}
+}

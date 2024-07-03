@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "图片直播",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "menusel": "/components/menusel/menusel"
+  }
+}

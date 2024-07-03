@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "报名",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "xiayibu": "/components/xiayibu/xiayibu",
+    "baomingxinxi": "/components/baomingxinxi/baomingxinxi",
+    "tianxiewenjuan": "/components/tianxiewenjuan/tianxiewenjuan",
+    "baomingchenggong": "/components/baomingchenggong/baomingchenggong"
+  }
+}

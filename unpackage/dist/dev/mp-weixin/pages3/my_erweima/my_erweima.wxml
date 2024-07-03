@@ -1,0 +1,1 @@
+<view class="roww center_center" style="height:100vh;"><view class="p-all-20 roww center_center background1 w-650 h-650"><canvas style="margin:20px;width:200px;height:200px;" canvas-id="myQrcode"></canvas></view></view>

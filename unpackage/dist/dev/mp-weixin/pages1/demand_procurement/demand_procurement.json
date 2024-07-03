@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "需求采购",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "no-list": "/components/noList/noList"
+  }
+}

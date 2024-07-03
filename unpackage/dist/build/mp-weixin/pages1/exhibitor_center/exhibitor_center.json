@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "展商中心",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs"
+  }
+}

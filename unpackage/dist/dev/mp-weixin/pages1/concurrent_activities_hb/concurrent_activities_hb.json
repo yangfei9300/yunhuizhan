@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "同期活动",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "no-list": "/components/noList/noList",
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}
